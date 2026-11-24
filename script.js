@@ -98,4 +98,6 @@ function showMemoryIndicator() {
 
 function hideMemoryIndicator() {
     display.style.borderLeft = 'none';
+
 }
+
